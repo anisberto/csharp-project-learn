@@ -1,0 +1,8 @@
+D:\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\csharp-project-learn\Primeiro\Primeiro\bin\Debug\Primeiro.exe.config
+D:\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\csharp-project-learn\Primeiro\Primeiro\bin\Debug\Primeiro.exe
+D:\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\csharp-project-learn\Primeiro\Primeiro\bin\Debug\Primeiro.pdb
+D:\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\csharp-project-learn\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+D:\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\csharp-project-learn\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\csharp-project-learn\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+D:\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\csharp-project-learn\Primeiro\Primeiro\obj\Debug\Primeiro.exe
+D:\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\csharp-project-learn\Primeiro\Primeiro\obj\Debug\Primeiro.pdb
